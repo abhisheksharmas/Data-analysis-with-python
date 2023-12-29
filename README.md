@@ -10,5 +10,5 @@ Temporal Analysis: Analyzing time-based patterns such as daily, weekly, or month
 Geospatial Visualization: Plotting call locations on maps to visualize hotspots and areas with higher emergency incidences. 
 # Technologies Used:
 Programming Languages: Python \
-Libraries: Pandas, NumPy, Matplotlib, Seaborn \
+Libraries: Pandas, NumPy, Matplotlib, Seaborn\
 Data Analysis and Visualization Techniques: Pandas DataFrames, Matplotlib plots, Seaborn visualizations, Geographic Mapping
